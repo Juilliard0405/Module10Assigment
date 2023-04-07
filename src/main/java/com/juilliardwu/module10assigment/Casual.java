@@ -10,16 +10,25 @@ package com.juilliardwu.module10assigment;
  * @author juilliardwu
  */
 public class Casual implements Clothes{
+    /**
+     * override the shoes method for Casual top.
+     */
 
     @Override
     public void top() {
         System.out.println("Casual top");
     }
+    /**
+     * override the shoes method for Casual pants.
+     */
 
     @Override
     public void pants() {
         System.out.println("Casual pants");
     }
+    /**
+     * override the shoes method for Casual shoes.
+     */
 
     @Override
     public void shoes() {

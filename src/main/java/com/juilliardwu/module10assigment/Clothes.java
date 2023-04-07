@@ -9,6 +9,8 @@ package com.juilliardwu.module10assigment;
  *
  * @author juilliardwu
  */
+// Clothes interface include three part: top, pants and shoes. 
+//Each related product will be implement this interface and make change on it.
 public interface Clothes {
     public void top();
     public void pants();

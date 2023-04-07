@@ -7,7 +7,7 @@ package com.juilliardwu.module10assigment;
  */
 
 /**
- *
+ * Driver class
  * @author juilliardwu
  */
 public class Main {
